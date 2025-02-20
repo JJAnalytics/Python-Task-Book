@@ -35,6 +35,7 @@ To showcase my Python skills highlighting my ability to load and explore data, I
   
 - The code selecting all the rows where the 'class' is 'four'.
 
+![image](https://github.com/user-attachments/assets/e1aa53be-ed8e-43a0-8fe7-574ec2922fd5)
 
   
 - The code to drop the 'passed' columns.
