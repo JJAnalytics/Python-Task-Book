@@ -25,6 +25,7 @@ To showcase my Python skills highlighting my ability to load and explore data, I
   
 - The code displaying the  first 5 rows of the data frame.
 
+![image](https://github.com/user-attachments/assets/b5ae8477-dd51-4255-8495-0bd49081f140)
 
   
 - The code to select the 'name' & 'mark' columns.
