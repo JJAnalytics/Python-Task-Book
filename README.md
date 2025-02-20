@@ -45,7 +45,8 @@ To showcase my Python skills highlighting my ability to load and explore data, I
   
 - The pivot table as a column chart.
 
-  
+![image](https://github.com/user-attachments/assets/55f44609-c47d-4034-947a-da53abc4e3ba)
+ 
 
 ## Summary
 This summary highlights my Python skills, emphasizing my ability to load and explore data, Index and Slice, manipulate data and visualise results.
