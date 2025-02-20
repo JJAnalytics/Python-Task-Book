@@ -40,6 +40,7 @@ To showcase my Python skills highlighting my ability to load and explore data, I
   
 - The code to drop the 'passed' columns.
 
+![image](https://github.com/user-attachments/assets/f32e0dbf-56ef-433f-ae27-79f173ed37bc)
 
   
 - The pivot table as a column chart.
