@@ -20,6 +20,7 @@ To showcase my Python skills highlighting my ability to load and explore data, I
 
 - The code to read a CSV file into a Pandas data frame.
 
+![image](https://github.com/user-attachments/assets/8b447ce6-cd6b-4b14-868b-52eccf88c83e)
 
   
 - The code displaying the  first 5 rows of the data frame.
