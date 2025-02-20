@@ -30,6 +30,7 @@ To showcase my Python skills highlighting my ability to load and explore data, I
   
 - The code to select the 'name' & 'mark' columns.
 
+![image](https://github.com/user-attachments/assets/9db077a6-b8fd-4522-8981-a44be676b716)
 
   
 - The code selecting all the rows where the 'class' is 'four'.
